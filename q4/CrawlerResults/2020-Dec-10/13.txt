@@ -1,0 +1,7 @@
+Apple CEO Tim Cook to speak at U.N. summit on anniversary of Paris climate accords
+ 
+"+o.itemList.length+" "+this.config.text.ariaShown+"
+"+this.config.text.ariaClosed+"
+Dec 10 (Reuters) - Apple Inc Chief Executive Officer Tim Cook plans to deliver remarks at the United Nations&#39; Climate Ambition Summit on Dec. 12, the company confirmed on Wednesday.
+The summit is being held on the fifth anniversary of the international Paris climate agreement and ahead of U.N. talks next year in Glasgow, Scotland. The Paris agreement is designed to limit a rise in global temperatures to 1.5 degrees Celsius, which scientists say could stave off the worst effects of climate change.
+The iPhone maker earlier this year said that it has become carbon neutral for its corporate operations and has released plans to make its full supply chain and product lineup carbon neutral by 2030. (Reporting by Stephen Nellis in San Francisco, Editing by Franklin Paul)

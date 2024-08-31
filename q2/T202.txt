@@ -1,0 +1,219 @@
+22	How do you wear this thing?
+4	Hmm.
+7	Mm mm mm.
+25	Not too many cables and stuff.
+9	Original.
+11	Is recorded?
+5	Okay?
+22	Okay so welcome everyone.
+74	So we are here for the kickoff meeting of uh the process of designing a new remote control.
+135	So I will first start with a warm welcome opening stuff, then uh we will uh see what will be uh our product and what will be the different step we will have to design it.
+137	And uh then we will uh discuss if we have few ideas and we will uh end uh by uh dispatching the different task you will be you will have to fulfil to complete this process.
+8	So sorry?
+3	Uh.
+13	Just one thing.
+124	Uh, you said twenty-five minutes, but I have something else to do uh, so gotta have another meeting uh soon, so maybe you could hurry up a bit It's true.
+38	I have another meeting so if you could uh Yeah.
+26	You have another meeting soon?
+19	So you have to be quick.
+28	Yeah, for the lawnmower project.
+5	Okay.
+5	Okay.
+142	So the the goal is to have a remote control so to have an advantage over our competitors we have to be original, we have to be trendy and we have to also try to be user-friendly.
+50	So uh the design step will be divided in three uh main points.
+33	First it will be the functional design.
+52	Third is the conceptual design and then is the desired design.
+99	So the functional design is to identify the main user needs, the technical function the remote control should fulfil.
+179	And then we will move to f conceptual design where we'll specify the different component involved, what kind of user interf interface we want and what are the different uh trend in user interface and stuff like that.
+115	And then the desired devi design will consist in uh specifically implementing and detailing the choice we've uh made in the second point.
+127	So I will now ask you which is very important for the design of a new remote control for to uh each of us to to draw uh your favourite animal on the white board.
+19	What an original idea.
+45	Do you have any idea of which animal you want to show us?
+10	Orangutan.
+15	Okay that's good.
+34	No no n You should write y the name I think.
+76	n n You should If you want to react uh about this wonderful drawing uh I'll let you uh comment.
+17	Can I give you the no?
+27	But I don't have to say anything.
+27	When I'm drawing the orangutan.
+35	It's an abstract drawing of an orangutan.
+26	Okay it's an abstract drawing.
+4	Yes.
+26	I think it's nice and original.
+21	I don't have a red colour.
+76	Usually orangutans have red hair so this is a very important but I don't have red pen, so Yes.
+5	Okay.
+32	You want to draw something Christine?
+12	Okay uh sorry.
+29	You have to imagine a little bit um.
+15	This Sorry too uh.
+42	Of course your animal is recorded so it's not lost.
+4	Yes.
+6	I know.
+25	Is this uh Ah okay it's pretty.
+26	Wha what is this strange beast?
+14	Is it beautiful?
+13	Is it a monster?
+10	Do you know?
+9	It's a cat.
+9	It's a cat?
+8	Isn't it?
+31	I thought these things did not exist.
+19	Yes yes is it like that.
+9	Me Ah yeah.
+11	Is it better?
+20	Ah yeah Does have a name?
+5	Yeah.
+5	Okay.
+10	It's my cat.
+16	Okay it's your cat.
+5	Yeah.
+17	The name is Caramel.
+8	Caramel.
+8	Caramel.
+6	Ah-ha.
+5	Yeah.
+5	Okay.
+63	Olivier, do you want to Okay I go, but next time you'll do something I'm sure.
+36	And you I think I'm too short for the cables.
+21	Next time I concentrate.
+20	I'm a bit short on cable.
+5	Okay.
+17	So what could I draw?
+36	Maybe I can draw like a very simplified cow.
+37	I don't know if it looks like a cow Like a what?
+17	He looks like a bong.
+5	Okay.
+6	Sorry.
+3	No.
+13	Quite squarey.
+6	Scary?
+7	He also.
+46	I dunno it it looks more like a donkey in fact I would say.
+3	Mm.
+61	I I think we will be finished this uh Is it for uh for putting a for logos, no.
+65	Okay so I hope that it helps you uh in the process of designing a remote control.
+42	That's I is there a matter for a new remote control?
+5	Okay.
+12	Let's move on.
+42	So Here the uh financial objective of our project.
+151	That is to say to to have a production cost lower than twelve point five Euros and have a selling price of twice that price t in order to target a profe profit of uh fifty uh million Euros.
+46	Yeah if it's trendy, original I d fulfil the user needs.
+65	Is it uh a single device remote control or is it a multi-device remote control?
+25	We have to discuss that point.
+24	Ah this is not defined at all?
+37	On yeah you you can suggest points like this.
+8	Ah, okay.
+70	So what what so we have to decide for example if it can control one device or multiple.
+34	So what's what are your ideas about that?
+48	Maybe I can have the your opinion from the marketing side?
+25	Well uh do we sell other stuff?
+152	Uh if if we bundle the remote control with something uh to sell then it could be a single device, otherwise it could be programmable one otherwise who would buy a remote control from us.
+63	Okay, so if it selled uh by its own i it it would rather be for multiple device.
+5	Yeah.
+11	Do you agree?
+7	Mm-hmm.
+5	Yeah.
+36	So maybe it should be for multiple devices.
+87	And uh do you have any ideas um of uh design ideas or any uh uh technical requirement we we should uh fulfil?
+39	I think we shouldn't have too many b for my part.
+50	No, I couldn I cannot fi think of any requirements right now.
+44	I think If we don't have so many buttons could be nice.
+11	Few buttons.
+5	Okay.
+58	And do you have it also to be to be lighted in order to be used in the dark?
+17	Might be a good idea.
+5	Yeah.
+5	Okay.
+102	And do you have any um any uh idea of the trend the trend in domain, what it shouldn't it should look like, or things like that?
+42	Something which is not squarey maybe uh, not a box.
+3	Mm.
+12	With rou okay.
+12	Like for okay.
+38	Something like that, least fits in your hand.
+5	Yeah.
+5	Okay.
+5	Yeah.
+20	The basic requirement.
+3	So.
+19	Fit in your hand, yeah.
+10	Only a buck.
+111	And also it have, i it may be it may be important for the remote control to be uh To, to resist to various shocks that can happen if it fall.
+7	Mm-hmm.
+11	Waterproof.
+18	Water-proof as well.
+34	And I think we should have a device Sorry.
+77	Maybe it is original because you can uh use it in your uh in your bath whereas the others can't.
+36	Maybe water-proof would be very original.
+73	Havin having a water-proof remote control so that the people can uh use it in their bath.
+3	Mm.
+166	That could be uh Yeah but, it is still something uh you have to buy and that is um not maybe very Yeah, mayb B But maybe we can bulk it with uh already this plastic thing and uh the waterproof uh stuff as well.
+265	B it seems uh so, but uh if you don't have an waterproof remote control it means you can just cover it with some plastic and you can sort of f And, and that's one of the that's one of the shock I mean there are people that have a remote control and they are worried that it's going to break and they put some extra plastic around it.
+39	That's people they actually do it themselves.
+5	Yeah.
+9	directly.
+28	I it will look a bulky in that case.
+5	Yeah.
+5	Yeah.
+82	Maybe we can sell uh all that together, so so plastic protection and uh and a waterproof box as well.
+31	That might be good uh track to follow.
+22	Like as an optional thing.
+23	Optional or selled with it?
+67	And I I think we should have something, most of the time I I lose my remote control.
+69	We should have s uh special bu button on the T_V_ to make the remote control beeping.
+5	Yeah.
+40	Maybe we can have uh But we don't design the T_V_.
+7	Ah yeah.
+63	Maybe we can have uh something you whistle and uh the remote control uh beep.
+5	Yeah.
+6	Barks.
+16	Yeah, barks, yeah.
+6	Barks.
+37	So we can uh have a whistle uh remote control?
+5	Yeah.
+12	Yeah whistle.
+24	I don't know, whistle-able?
+16	Whistle tracking.
+22	Th Whistle tracking yeah.
+29	Whistle tracking remote control.
+56	That's a good idea, that's very original and that's can uh improve.
+108	That's that's quite cool, but uh of course we you don't normally need uh any audio uh recording stuff on your remote control right?
+9	Yeah d d uh.
+32	So i it's just going to add t to the cost.
+65	Yeah but s still we have to mm we have to have an advantage over our competitors.
+27	I think this is a good advantage.
+9	It's cool.
+91	I think I like the idea, but I'm not sure about the what you, who is giving who's giving who's giving our budget.
+5	Yeah.
+16	We have to ask Yeah.
+10	Who's Yeah.
+63	We have to ask the quest of that's uh design to the uh Industrial um Designer.
+5	Yeah.
+5	Yeah.
+11	Which is you.
+5	'Kay.
+9	yeah Okay.
+34	Okay so try to find that for next meeting.
+5	Okay.
+37	So next meeting is in thirty minutes or so uh.
+11	Don't panic.
+10	Don't pani.
+117	So so I will ask the Industrial Designer to find out more about this industrial design so any working any working function we have discussed.
+7	Mm-hmm.
+179	So then I will ask the User Interf Interface Designer to to think about the point we discussed like the number of buttons, the the fact that is lighted or not, things like that, and what would be convenient for the user.
+7	Mm-hmm.
+130	And also um I will ask the Market Expert to uh try to find out what are the absolute requirements, what is absolutely needed in a remote control uh for the user.
+3	So.
+103	And then uh I will uh just ask you to think about that and uh look at your mail because you will receive uh some good advice soon.
+3	Mm.
+3	So.
+36	Thank you I think that's all for this point.
+5	Good.
+7	Mm-hmm.
+29	Uh, so we come back in five minutes?
+11	Half an hour.
+33	Anyway you will receive some messages.
+10	Be careful.
+9	You eat it?
+13	Does it move uh?
+51	Okay, but I don't know if it uh is still correctly uh We'll see.

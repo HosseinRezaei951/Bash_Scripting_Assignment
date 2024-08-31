@@ -1,0 +1,13 @@
+Morgan Stanley to shift $120 bln to Germany in post-Brexit move - source
+ 
+"+o.itemList.length+" "+this.config.text.ariaShown+"
+"+this.config.text.ariaClosed+"
+FRANKFURT, Dec 10 (Reuters) - Morgan Stanley is planning to shift around 100 billion euros ($121 billion) in assets to Frankfurt from Britain next year as a consequence of Brexit, a person with knowledge of the matter said on Thursday.
+Frankfurt&#39;s banking scene has been one of the primary beneficiaries of Britain&#39;s exit from the European Union as many big global banks chose Germany&#39;s financial capital to house staff and assets. Dozens of financial institutions have applied for licenses in Germany.
+The person, who spoke on condition of anonymity to discuss internal planning, said that the volume of assets slated for transfer was a rough estimate and would likely be moved in the first quarter of next year.
+Britain and the European Union are currently in discussions to hammer out a post-Brexit trade deal.
+Banks that have increased their presence in Frankfurt include Citigroup, JPMorgan, Standard Chartered and Goldman Sachs.
+Frankfurt has been dubbed Bankfurt or Mainhattan, after the river Main that the city straddles.
+A steady increase in banking jobs has however likely come to an end because of the coronavirus pandemic, according to a study by German lender Helaba.
+Bloomberg first reported Morgan Stanley&#39;s plans. ($1 = 0.8243 euros)
+(Reporting by Tom Sims; Editing by Douglas Busvine and Lisa Shumaker)
